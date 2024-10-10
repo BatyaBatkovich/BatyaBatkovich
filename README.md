@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A passionate Cyber seciruty officer in France</h3>
+<h3 align="center">A passionate Cyber security officer in France</h3>
 
 - 🌱 I’m currently learning **All things possible**
 
